@@ -1,3 +1,7 @@
+/*
+给出前序遍历和中序遍历，构建二叉树
+*/
+
 #include <cstdio>
 #include <exception>
 
