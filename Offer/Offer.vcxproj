@@ -113,6 +113,7 @@
   <ItemGroup>
     <ClCompile Include="BinaryTree1.cpp" />
     <ClCompile Include="BinaryTree2.cpp" />
+    <ClCompile Include="Stack1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
