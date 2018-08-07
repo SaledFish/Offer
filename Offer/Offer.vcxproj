@@ -111,11 +111,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="26_HasSubtree.cpp" />
     <ClCompile Include="BinaryTree1.cpp" />
     <ClCompile Include="BinaryTree2.cpp" />
+    <ClCompile Include="14_CutTheRope_Dynamic.cpp" />
+    <ClCompile Include="14_CutTheRope_Greedy.cpp" />
+    <ClCompile Include="18_DeleteDuplication.cpp" />
+    <ClCompile Include="18_DeleteNode.cpp" />
+    <ClCompile Include="16_doublePower.cpp" />
+    <ClCompile Include="23_EntryNodeOfLoop.cpp" />
     <ClCompile Include="Fibonacci.cpp" />
-    <ClCompile Include="hasPath.cpp" />
+    <ClCompile Include="22_FindKthToTail.cpp" />
+    <ClCompile Include="12_hasPath.cpp" />
+    <ClCompile Include="20_isBNumberic.cpp" />
+    <ClCompile Include="19_Match.cpp" />
+    <ClCompile Include="25_MergeList.cpp" />
+    <ClCompile Include="13_moveCount.cpp" />
+    <ClCompile Include="15_NumberOf1.cpp" />
+    <ClCompile Include="17_Print1ToMaxOfN.cpp" />
+    <ClCompile Include="17_Print1ToMaxOfN2.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="21_ReorderOddEven.cpp" />
+    <ClCompile Include="21_ReorderOddEven2.cpp" />
+    <ClCompile Include="24_ReverseList.cpp" />
     <ClCompile Include="Stack1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

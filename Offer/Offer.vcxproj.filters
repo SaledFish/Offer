@@ -30,7 +30,61 @@
     <ClCompile Include="QuickSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="hasPath.cpp">
+    <ClCompile Include="26_HasSubtree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25_MergeList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_ReverseList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_EntryNodeOfLoop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22_FindKthToTail.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21_ReorderOddEven.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21_ReorderOddEven2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20_isBNumberic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19_Match.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_DeleteNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_DeleteDuplication.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_Print1ToMaxOfN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_Print1ToMaxOfN2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_doublePower.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_NumberOf1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_CutTheRope_Greedy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_CutTheRope_Dynamic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_moveCount.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12_hasPath.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
