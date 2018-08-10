@@ -58,7 +58,7 @@ public:
 		else
 			median = (min[0] + max[0]) / 2;
 
-		return median;
+		return median;*
 	}
 
 private:
