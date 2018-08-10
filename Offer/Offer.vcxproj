@@ -112,6 +112,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="26_HasSubtree.cpp" />
+    <ClCompile Include="27_MirrorRecursively.cpp" />
+    <ClCompile Include="28_isSymmetrical.cpp" />
+    <ClCompile Include="29_PrintMatrixInCircle.cpp" />
+    <ClCompile Include="30_minStack.cpp" />
+    <ClCompile Include="31_IsPopOrder.cpp" />
+    <ClCompile Include="32_PrintFromTopToBottom.cpp" />
+    <ClCompile Include="33_VerifySquenceOfBTS.cpp" />
+    <ClCompile Include="34_FindPath.cpp" />
+    <ClCompile Include="35_CloneComplexListNode.cpp" />
+    <ClCompile Include="36_BSTandDL.cpp" />
+    <ClCompile Include="37_Serialize.cpp" />
+    <ClCompile Include="38_Permutation.cpp" />
+    <ClCompile Include="39_MoreThanHalfNum.cpp" />
+    <ClCompile Include="41_GetMedian.cpp" />
     <ClCompile Include="BinaryTree1.cpp" />
     <ClCompile Include="BinaryTree2.cpp" />
     <ClCompile Include="14_CutTheRope_Dynamic.cpp" />

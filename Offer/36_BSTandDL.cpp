@@ -9,6 +9,27 @@ struct BinaryTreeNode
 	BinaryTreeNode *m_pRight;
 };
 
+void ConvertNode(BinaryTreeNode *pNode, BinaryTreeNode** pLastNodeInList)
+{
+	if (pNode == nullptr)
+		return;
+
+	BinaryTreeNode *pCurrent = pNode;
+
+	if (pCurrent->m_pLeft != nullptr)
+		ConvertNode(pCurrent->m_pLeft, pLastNodeInList);
+
+	pCurrent->m_pLeft = *pLastNodeInList;
+
+	if (*pLastNodeInList != nullptr)
+		(*pLastNodeInList)->m_pRight = pCurrent;
+
+	*pLastNodeInList = pCurrent;
+
+	if (pCurrent->m_pRight != nullptr)
+		ConvertNode(pCurrent->m_pRight, pLastNodeInList);
+}
+
 BinaryTreeNode *Convert(BinaryTreeNode *pRootOfTree)
 {
 	BinaryTreeNode *pLastNodeInList = nullptr;
